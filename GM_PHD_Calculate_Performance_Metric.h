@@ -1,0 +1,14 @@
+//
+// Created by david
+//
+
+#ifndef PROYECTO_GM_PHD_CALCULATE_PERFORMANCE_METRIC_H
+#define PROYECTO_GM_PHD_CALCULATE_PERFORMANCE_METRIC_H
+
+#define NUM_F 10
+#define NUM 30000
+
+void GM_PHD_Calculate_Performance_Metric(void);
+
+
+#endif //PROYECTO_GM_PHD_CALCULATE_PERFORMANCE_METRIC_H
