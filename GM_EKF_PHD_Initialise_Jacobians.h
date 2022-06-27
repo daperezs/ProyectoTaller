@@ -1,6 +1,14 @@
 //
-// Created by david on 19/05/2022.
+// Created by david
 //
+
+/**
+    @file GM_EKF_PHD_Initialise_Jacobians.h
+    @title GM_EKF_PHD_Initialise_Jacobians
+    @brief In this file we calculate the Jacobians for the EKF in the PHD filter.
+    These are for the motion and observation models, and the noise on each of
+    these.
+ */
 
 #ifndef PROYECTO_GM_EKF_PHD_INITIALISE_JACOBIANS_H
 #define PROYECTO_GM_EKF_PHD_INITIALISE_JACOBIANS_H

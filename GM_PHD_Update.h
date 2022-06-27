@@ -1,6 +1,12 @@
 //
-// Created by david on 19/06/2022.
+// Created by david
 //
+
+/**
+    @file GM_PHD_Update.h
+    @title GM_PHD_Update
+    @brief This file performs a PHD filter update on the targets
+*/
 
 #ifndef PROYECTO_GM_PHD_UPDATE_H
 #define PROYECTO_GM_PHD_UPDATE_H

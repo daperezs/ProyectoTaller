@@ -1,6 +1,12 @@
 //
-// Created by david on 04/05/2022.
+// Created by david
 //
+
+/**
+    @file GM_PHD_Initialisation.h
+    @title GM_PHD_Initialisation
+    @brief This file initialises most of the variables that we use for the filter.
+*/
 
 #ifndef PROYECTO_GM_PHD_INITIALISATION_H
 #define PROYECTO_GM_PHD_INITIALISATION_H

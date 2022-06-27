@@ -2,6 +2,12 @@
 // Created by david
 //
 
+/**
+    @file GM_PHD_Simulate_Plot.h
+    @title GM_PHD_Simulate_Plot
+    @brief Plot all measurements
+*/
+
 #ifndef PROYECTO_GM_PHD_SIMULATE_PLOT_H
 #define PROYECTO_GM_PHD_SIMULATE_PLOT_H
 
